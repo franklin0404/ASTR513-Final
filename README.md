@@ -1,2 +1,2 @@
 # ASTR513-Final
-Final project for ASTR513. The jupyter file shows a demonstration on how to deconvolve the stars and background galaxies of LBT image and remove the reconstructed star model from the image to leave only the background galaxies. I cannot provide the original image file I used as it is not opened yet. 
+This Jupyter Notebook is the final project for ASTR513. It demonstrates the process of deconvolving stars and background galaxies in an image from the Large Binocular Telescope (LBT). The workflow includes reconstructing and subtracting the star model from the image, leaving only the background galaxies. Note: The original image file used in this demonstration is not included, as it has not been publicly released.
